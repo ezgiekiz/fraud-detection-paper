@@ -1,4 +1,6 @@
 # fraud-detection-paper
+Raw images and augmented version is available at: https://drive.google.com/file/d/1KFcpknRBXPv_ARlQRds_XRoYMHs_8om_/view?usp=sharing
+
 
 D_0: raw images
 
